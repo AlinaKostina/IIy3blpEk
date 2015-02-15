@@ -1,5 +1,5 @@
-// 5 пузырек.cpp : Defines the entry point for the console application.
-//
+// puzyrjok izmenen
+// pravda
 
 #include "stdafx.h"
 #include "stdio.h"
